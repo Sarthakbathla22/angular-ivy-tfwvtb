@@ -1,0 +1,55 @@
+.navbar {
+  background-color:rgba(247, 123, 112, 0.788);
+  margin-top: -8px;
+  margin-left: -16px;
+  margin-right: -16px;
+  padding: 20px;
+  display: flex;
+}
+.bar{
+  background-color:#B0B8B4FF;
+  border-radius: 10px;
+}
+
+.sample {
+  flex: 1 1 auto;
+}
+.text {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.box {
+  margin-left: 20px;
+}
+.menu {
+  background-color:#184A45FF;
+  color: black;
+  border: none;
+  font-size: 40px;
+  cursor: pointer;
+}
+.favorite-icon{
+  background-color:#184A45Ff;
+  color: black;
+  border: none;
+  font-size: 40px;
+  cursor: pointer;
+
+}
+.share-icon{
+  background-color:#184A45FF;
+  color: black;
+  border: none;
+  font-size: 40px;
+  cursor: pointer;
+}
+.product-link{
+  background-color:#B0B8B4FF;
+  border:3px;
+  font-size: larger;
+  margin-right: 20px;
+  cursor: pointer;
+  padding: 13px;
+  
+}

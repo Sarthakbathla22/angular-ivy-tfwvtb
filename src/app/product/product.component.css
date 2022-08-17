@@ -1,0 +1,8 @@
+.card-image {
+  object-fit: cover;
+  width: 80%;
+  height:90px;
+}
+.material{
+  background-color: rgb(250, 247, 247);
+}
