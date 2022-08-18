@@ -1,11 +1,15 @@
 .card-image {
-  object-fit: cover;
   width: 100%;
   height: fit-content;
+  object-fit: cover;
+  display: block;
+  position: relative;
   
 }
 .material{
-  background-color: rgb(250, 247, 247);
+  align-items:center;
+  margin-top: 10px;
+  background-color:#fcde67;
 }
 .like {
   position: absolute;
@@ -18,9 +22,11 @@
   bottom: 2%;
 }
 .card{
-  width: 25px;
-  margin: 20px;
-  box-shadow: 0px 10px 10px -6px black;
+  border: 1px solid rgb(0, 0, 0);
+  background-color: #ffffff;
+  width: 250px;
+  margin: auto;
+  margin-top: 30px;
 
 }
 .card-desc{
