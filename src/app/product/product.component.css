@@ -6,3 +6,14 @@
 .material{
   background-color: rgb(250, 247, 247);
 }
+.like {
+  position: absolute;
+  left: 5%;
+  bottom: 2%;
+}
+.share {
+  position: absolute;
+  left: 75%;
+  bottom: 2%;
+}
+
